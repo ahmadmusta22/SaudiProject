@@ -33,7 +33,7 @@ const Paypal = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // order
+  
 
     try {
       // Ensure method is 'paypal'
